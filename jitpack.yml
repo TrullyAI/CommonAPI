@@ -1,4 +1,4 @@
 install:
   - FILE="-Dfile=common-api.aar"
   - mvn install:install-file $FILE -DgroupId=ai.trully.common
-    -DartifactId=CommonAPI -Dversion=7.3.1787 -Dpackaging=aar -DgeneratePom=true
+    -DartifactId=CommonAPI -Dversion=7.2.1625 -Dpackaging=aar -DgeneratePom=true
